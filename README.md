@@ -7,7 +7,7 @@
 
 - 🚀 I’m currently working on: **E-commerce platform with product & rental modules**
 - 🌱 I’m learning: **IoT, Arduino, and Motion Detection Projects**
-- 👨‍💻 Portfolio: [varun-devx.vercel.app](https://varunporfolio.netlify.app)
+- 👨‍💻 Portfolio: [varun-porfolio.netlify.app](https://varunporfolio.netlify.app)
 - 🎯 Short-term goal: **Build stunning parallax effect websites**
 - 💼 Long-term goal: **Become a top-tier Front-End Developer**
 
