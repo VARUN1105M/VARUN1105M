@@ -7,7 +7,7 @@
 
 - 🚀 I’m currently working on: **E-commerce platform with product & rental modules**
 - 🌱 I’m learning: **IoT, Arduino, and Motion Detection Projects**
-- 👨‍💻 Portfolio: [varun-devx.vercel.app](https://varun-devx.vercel.app)
+- 👨‍💻 Portfolio: [varun-devx.vercel.app](https://varunporfolio.netlify.app)
 - 🎯 Short-term goal: **Build stunning parallax effect websites**
 - 💼 Long-term goal: **Become a top-tier Front-End Developer**
 
@@ -16,9 +16,9 @@
 ### 💻 Tech Stack
 
 ```ts
-Frontend:   React.js | Tailwind CSS | AngularJS  
+Frontend:   React.js | Tailwind CSS | Tailwind CSS | Bootstrap
 Backend:    Node.js | Next.js  
-Database:   Supabase | MongoDB | Firebase  
+Database:   Supabase | MongoDB  
 Dev Tools:  VS Code | Postman | Figma | Arduino IDE  
-Cloud:      Google Cloud | GCP Auth | Firebase Hosting  
-Other:      Razorpay | SEO | Google Analytics  
+Cloud:      Google Cloud | GCP Auth
+Other:      SEO 
